@@ -1,1 +1,1 @@
-# addons
+# Install Dream-Stream add-ons!
